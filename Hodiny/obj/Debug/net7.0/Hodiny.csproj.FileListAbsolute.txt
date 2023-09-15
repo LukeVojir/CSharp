@@ -1,0 +1,14 @@
+c:\Code\CSharp\Hodiny\bin\Debug\net7.0\Hodiny.exe
+c:\Code\CSharp\Hodiny\bin\Debug\net7.0\Hodiny.deps.json
+c:\Code\CSharp\Hodiny\bin\Debug\net7.0\Hodiny.runtimeconfig.json
+c:\Code\CSharp\Hodiny\bin\Debug\net7.0\Hodiny.dll
+c:\Code\CSharp\Hodiny\bin\Debug\net7.0\Hodiny.pdb
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.AssemblyInfoInputs.cache
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.AssemblyInfo.cs
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.csproj.CoreCompileInputs.cache
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.dll
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\refint\Hodiny.dll
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.pdb
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\Hodiny.genruntimeconfig.cache
+c:\Code\CSharp\Hodiny\obj\Debug\net7.0\ref\Hodiny.dll
